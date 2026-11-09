@@ -1,4 +1,4 @@
-<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>سياسة الخصوصية — شعائر الإسلام</title><style>body{font-family:system-ui,Tahoma,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;line-height:1.9;color:#22283A}h1{color:#14213D}h2{color:#14213D;font-size:1.15em;margin-top:1.6em}</style></head><body>
+
 <h1>سياسة الخصوصية — تطبيق «شعائر الإسلام»</h1><p>آخر تحديث: نوفمبر 2026</p>
 <p>تطبيق «شعائر الإسلام» تطبيق تعليمي يعمل دون اتصال بالإنترنت، ولا يطلب إذن الوصول إلى الإنترنت.</p>
 <h2>البيانات التي نجمعها</h2><p><b>لا نجمع أي بيانات شخصية</b>، ولا نرسل أي بيانات إلى خوادم، ولا نستخدم أدوات تحليل أو إعلانات أو حسابات.</p>
